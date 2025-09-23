@@ -1,5 +1,5 @@
-|Neurologia|1|Masculino|Hospital
-|Neurologia|1|Masculino|Hospital
-|Neurologia|1|Masculino|Hospital
-|Neurologia|1|Masculino|Hospital
-|Neurologia|1|Masculino|Hospital
+Dr.  Pedro Cananova|Neurologia|12|Masculino|Caja Petrolera
+Dra.Mariely Mendoza|Cardiologia|5|Femenino|Hospital El Bajio
+Dr. Pablo Mendez|Neurologia|15|Masculino|Hospital Japones
+Dra. Keyla Parada|Cardiologia|7|Femenino|Hospital Japones
+Dr. Jorge Peña|Ginecologia|9|Masculino|Caja Petrolera
