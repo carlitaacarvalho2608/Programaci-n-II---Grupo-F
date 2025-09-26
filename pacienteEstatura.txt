@@ -1,0 +1,6 @@
+Noemi Alvarez|02-03-1983|42|Femenino|o+|Privado|Hospital Central|1.60cm
+Josue Carvalho|16-06-2005|20|Masculino|a+|Público|Centro Sur|1.70cm
+CarlaCarvalho|26-08-2006|19|Femenino|a+|Ninguno|Hospital Centra|1.62cm
+Andres Carvalho|18-07-2012|13|Masculino|a+|Privado|Centro Sur|1.72cm
+Fernanda Carvalho|14-05-1980|45|Femenino|o+|Público|Clinica Norte|1.90cm
+Yeferson Gatito|01-08-2000|25|Masculino|o+|Privado|Centro Sur|1.70cm
