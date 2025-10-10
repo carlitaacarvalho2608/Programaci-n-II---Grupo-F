@@ -15,3 +15,19 @@ table{
 TH,TD{
     border: solid 1px rebeccapurple;
 }
+TH,TD{
+    border: solid 2px black;
+    padding: 40px;
+}
+thead{
+    background-color: lightblue;
+    border-bottom: solid 2px black;
+    color: purple;
+}
+tr:nth-child(even){
+    background-color: rgb(248, 248, 246);
+}
+tr:hover td{
+    background-color: green;
+    color: red;
+}
